@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maya AI</string>
+    <string name="accessibility_service_description">Maya AI Assistant service enables smart voice control, navigation, scrolling gestures, and app automation hands-free.</string>
+</resources>
